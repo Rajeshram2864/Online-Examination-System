@@ -1,5 +1,3 @@
-﻿# Online-Examination-System
-
 Online Examination System (ExamPro)
 ==================================
 
@@ -73,8 +71,12 @@ Suggested filenames:
 
 Embed in README.md (example)
 -----------------------------
-![Results modal](screenshots/result-modal.png)
-![Take Exam](screenshots/take-exam.png)
+<img width="677" height="823" alt="Screenshot 2025-08-28 234631" src="https://github.com/user-attachments/assets/32f40c84-b471-4707-9979-89703e241a44" />
+<img width="604" height="710" alt="Screenshot 2025-08-28 234616" src="https://github.com/user-attachments/assets/b675ea5f-d3a9-49ee-8415-0c1620a96c92" />
+<img width="628" height="701" alt="Screenshot 2025-08-28 234516" src="https://github.com/user-attachments/assets/6e91c1d2-5e5d-425f-b2e8-22b89332fd26" />
+<img width="699" height="829" alt="Screenshot 2025-08-28 234500" src="https://github.com/user-attachments/assets/2a5aced9-0e73-45f0-b1fd-29ebfee3a3a5" />
+<img width="666" height="855" alt="Screenshot 2025-08-28 234449" src="https://github.com/user-attachments/assets/6562e70b-1e5d-4e2d-aa02-b2a1a468e48b" />
+<img width="789" height="838" alt="Screenshot 2025-08-28 234435" src="https://github.com/user-attachments/assets/0c82ca34-1ab5-47fb-a435-e3b00c238c85" />
 
 Troubleshooting
 ---------------
