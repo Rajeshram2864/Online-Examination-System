@@ -19,20 +19,21 @@ Quick setup (Windows)
 ---------------------
 1. Clone repository
    git clone https://github.com/Rajeshram2864/Online-Examination-System.git
+
    cd Online-Examination-System
 
-2. Install dependencies
+3. Install dependencies
    npm install
    (or) pnpm install
 
-3. Run dev server
+4. Run dev server
    npm run dev
    Open: http://localhost:5173
 
-4. Build for production
+5. Build for production
    npm run build
 
-5. Preview the production build locally
+6. Preview the production build locally
    npm run preview
 
 Key scripts (package.json)
@@ -71,14 +72,14 @@ Suggested filenames:
 
 Embed in README.md (example)
 -----------------------------
+<img width="789" height="838" alt="Screenshot 2025-08-28 234435" src="https://github.com/user-attachments/assets/a5118901-d8a3-4cb4-a572-76538c132e82" />
 
-<img width="666" height="855" alt="Screenshot 2025-08-28 234449" src="https://github.com/user-attachments/assets/ae5dd83f-d3d0-4c08-b6be-f61cc16d44d5" />
-<img width="789" height="838" alt="Screenshot 2025-08-28 234435" src="https://github.com/user-attachments/assets/6a37cd9d-cc3a-457a-a8d4-691dc75bc453" />
-<img width="677" height="823" alt="Screenshot 2025-08-28 234631" src="https://github.com/user-attachments/assets/68fe7f7c-bcde-4611-94cf-122c50d2c69b" />
-<img width="604" height="710" alt="Screenshot 2025-08-28 234616" src="https://github.com/user-attachments/assets/8bd2065f-b65e-4ba5-bdb9-cdbe31205177" />
-<img width="628" height="701" alt="Screenshot 2025-08-28 234516" src="https://github.com/user-attachments/assets/8e9b7da4-a335-4a20-82cb-d3405e961f5e" />
-<img width="699" height="829" alt="Screenshot 2025-08-28 234500" src="https://github.com/user-attachments/assets/3cd85e16-3a2d-4c96-958b-d411b6667409" />
+<img width="666" height="855" alt="Screenshot 2025-08-28 234449" src="https://github.com/user-attachments/assets/474d5219-fb1a-43dc-a263-f2b0165217bf" />
+<img width="699" height="829" alt="Screenshot 2025-08-28 234500" src="https://github.com/user-attachments/assets/0f3a37a0-b21d-4bda-b00c-e5df21509d8b" />
+<img width="628" height="701" alt="Screenshot 2025-08-28 234516" src="https://github.com/user-attachments/assets/035c930b-6b01-45fa-a159-87a60750a8cf" />
 
+<img width="604" height="710" alt="Screenshot 2025-08-28 234616" src="https://github.com/user-attachments/assets/0bcac7e7-8959-479e-99bf-d00c4af0c681" />
+![Uploading Screenshot 2025-08-28 234631.png…]()
 
 Troubleshooting
 ---------------
@@ -98,5 +99,6 @@ Contact / Author
 ----------------
 
 Use GitHub issues on the repository
+
 
 
