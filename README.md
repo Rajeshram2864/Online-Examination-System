@@ -72,12 +72,13 @@ Suggested filenames:
 
 Embed in README.md (example)
 -----------------------------
-<img width="677" height="823" alt="Screenshot 2025-08-28 234631" src="https://github.com/user-attachments/assets/9cdc535a-9c6b-4e59-8b50-e1f3402429a1" />
-<img width="604" height="710" alt="Screenshot 2025-08-28 234616" src="https://github.com/user-attachments/assets/4d10804e-a7a7-4d9d-82e0-780422c54911" />
-<img width="628" height="701" alt="Screenshot 2025-08-28 234516" src="https://github.com/user-attachments/assets/b9f045ac-ee57-4f29-9a0e-f2da57c8bbae" />
-<img width="699" height="829" alt="Screenshot 2025-08-28 234500" src="https://github.com/user-attachments/assets/cc07563e-9dbe-406f-bf5d-8d66599f4f71" />
-<img width="666" height="855" alt="Screenshot 2025-08-28 234449" src="https://github.com/user-attachments/assets/8c2e06f2-de01-4d37-a822-56ecddc69b33" />
-<img width="789" height="838" alt="Screenshot 2025-08-28 234435" src="https://github.com/user-attachments/assets/8bdc36de-4cde-4ae0-aa47-7933d7262e10" />
+
+<img width="666" height="855" alt="Screenshot 2025-08-28 234449" src="https://github.com/user-attachments/assets/ae5dd83f-d3d0-4c08-b6be-f61cc16d44d5" />
+<img width="789" height="838" alt="Screenshot 2025-08-28 234435" src="https://github.com/user-attachments/assets/6a37cd9d-cc3a-457a-a8d4-691dc75bc453" />
+<img width="677" height="823" alt="Screenshot 2025-08-28 234631" src="https://github.com/user-attachments/assets/68fe7f7c-bcde-4611-94cf-122c50d2c69b" />
+<img width="604" height="710" alt="Screenshot 2025-08-28 234616" src="https://github.com/user-attachments/assets/8bd2065f-b65e-4ba5-bdb9-cdbe31205177" />
+<img width="628" height="701" alt="Screenshot 2025-08-28 234516" src="https://github.com/user-attachments/assets/8e9b7da4-a335-4a20-82cb-d3405e961f5e" />
+<img width="699" height="829" alt="Screenshot 2025-08-28 234500" src="https://github.com/user-attachments/assets/3cd85e16-3a2d-4c96-958b-d411b6667409" />
 
 
 Troubleshooting
@@ -98,3 +99,4 @@ Contact / Author
 ----------------
 
 Use GitHub issues on the repository
+
